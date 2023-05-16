@@ -1,0 +1,11 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+} 
+/* Clique SHIFT + ALT + A para comentar */
+/* o * é para resertar o layout que vem por padrão no site, pra q eu posso aplicar os meus moldes */
+ul{
+    list-style-type: none;
+} 
+/* colocando o ponto da lista ordenada sem estilo usando o none */
